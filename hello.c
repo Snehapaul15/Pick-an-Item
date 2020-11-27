@@ -7,19 +7,19 @@ scanf("%d",&choice);
 switch(choice)
 {
 case 1: 
-printf("You picked Pizza");
+printf("Food Item- Pizza \nRs239");
 break;
 case 2:
-printf("You picked Burger");
+printf("Food Item- Burger \nRs129");
 break;
 case 3:
-printf("You picked Pasta");
+printf("Food Item- Pasta\nRs129");
 break;
 case 4:
-printf("You picked French Fries");
+printf("Food Item- French Fries \nRs99");
 break;
 case 5:
-printf("You picked Sandwich");
+printf("Food Item- Sandwich \nRs149");
 break;
 default: ptintf("Invalid choice");
 }
